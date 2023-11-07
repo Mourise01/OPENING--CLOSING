@@ -88,7 +88,8 @@ plt.show()
 ## Output:
 
 ### Display the input Image:
-![Screenshot from 2023-11-07 14-14-11](https://github.com/VaishnavNanda/OPENING--CLOSING/assets/118707051/8f6147c4-b2f4-4785-a542-e2f60a9cdb1e)
+![Screenshot 2023-11-07 143406](https://github.com/Mourise01/OPENING--CLOSING/assets/119560349/58a5a082-c91d-4533-888e-7851c3c031a5)
+
 
 
 
@@ -100,7 +101,7 @@ plt.show()
 <br>
 
 ### Display the result of Opening
-![Screenshot from 2023-11-07 14-14-20](https://github.com/VaishnavNanda/OPENING--CLOSING/assets/118707051/efabecd4-e635-4b6a-b582-8215344d4d3d)
+![Screenshot 2023-11-07 143419](https://github.com/Mourise01/OPENING--CLOSING/assets/119560349/addf41fa-acec-46f0-9a30-3039431b4b89)
 
 
 <br>
@@ -111,7 +112,7 @@ plt.show()
 <br>
 
 ### Display the result of Closing
-![Screenshot from 2023-11-07 14-14-28](https://github.com/VaishnavNanda/OPENING--CLOSING/assets/118707051/49c5faf8-97d6-4cf9-b378-20693e5fec49)
+![Screenshot 2023-11-07 143427](https://github.com/Mourise01/OPENING--CLOSING/assets/119560349/98ddb9e2-3c08-41cc-9c68-5787765764cd)
 
 
 <br>
